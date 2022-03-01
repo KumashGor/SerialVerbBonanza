@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict>
+    <Lexeme>
+        <lx>afu</lx>
+        <pos>P</pos>
+        <gloss>Ich (historisch-mythische Vergangenheit)</gloss>
+    </Lexeme>
+    <Lexeme>
+        <lx>an-</lx>
+        <pos>Verbal prefix</pos>
+        <gloss>3SG.OBJ-</gloss>
+        <note>related to nek- '3PL.OBJ-'</note>
+    </Lexeme>
+    <Lexeme>
+        <lx>fem</lx>
+        <pos>P</pos>
+        <gloss>Ich (Präsens)</gloss>
+    </Lexeme>
+    <Lexeme>
+        <lx>fua</lx>
+        <pos>P</pos>
+        <gloss>Ich (ferne Vergangenheit)</gloss>
+    </Lexeme>
+    <Lexeme>
+        <lx>fui</lx>
+        <pos>P</pos>
+        <gloss>Ich (nahe Vergangenheit)</gloss>
+    </Lexeme>
+    <Lexeme>
+        <lx>nek-</lx>
+        <pos>Verbal prefix</pos>
+        <gloss>3PL.OBJ-</gloss>
+        <note>related to an- '3SG.OBJ-'</note>
+    </Lexeme>
+    <Lexeme>
+        <lx>rath</lx>
+        <pos>V</pos>
+        <gloss>sprechen</gloss>
+        <example>
+            <xv>Fem rath.</xv>
+            <xg>Ich spreche gerade.</xg>
+        </example>
+        <example>
+            <xv>Fem rathše.</xv>
+            <xg>Ich habe vor kurzem gesprochen.</xg>
+        </example>
+        <example>
+            <xv>Fem anrath.</xv>
+            <xg>Ich erzähle es gerade.</xg>
+        </example>
+        <example>
+            <xv>Fem anrathše.</xv>
+            <xg>Ich habe es vor kurzem erzählt.</xg>
+        </example>
+    </Lexeme>
+    <Lexeme>
+        <lx>trefa</lx>
+        <pos>V</pos>
+        <gloss>sehen</gloss>
+        <example>
+            <xv>Fem antrefa bost.</xv>
+            <xg>Ich sehe das Kind.</xg>
+        </example>
+        <example>
+            <xv>Fem nektrefa bost.</xv>
+            <xg>Ich sehe die Kinder.</xg>
+        </example>
+        <example>
+            <xv>Kem trefašufa.</xv>
+            <xg>(Ich sehe:) Er wird gesehen.</xg>
+        </example>
+        <example>
+            <xv>Kua antrefake.</xv>
+            <xg>(Mir wurde berichtet:) Er sah etwas.</xg>
+        </example>
+        <example>
+            <xv>Aku trefašure.</xv>
+            <xg>(Es steht geschrieben:) Er/Sie/Es wurde gesehen.</xg>
+        </example>
+        <example>
+            <xv>Fuasa trefašukr.</xv>
+            <xg>(Jemand von außen berichtete:) Ich allein wurde gesehen.</xg>
+        </example>
+    </Lexeme>
+</dict>
