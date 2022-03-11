@@ -33,23 +33,23 @@
         <note>related to an- '3SG.OBJ-'</note>
     </Lexeme>
     <Lexeme>
-        <lx>rath</lx>
+        <lx>ratha</lx>
         <pos>V</pos>
         <gloss>sprechen</gloss>
         <example>
-            <xv>Fem rath.</xv>
+            <xv>Fem ratha.</xv>
             <xg>Ich spreche gerade.</xg>
         </example>
         <example>
-            <xv>Fem rathše.</xv>
+            <xv>Fem rathaše.</xv>
             <xg>Ich habe vor kurzem gesprochen.</xg>
         </example>
         <example>
-            <xv>Fem anrath.</xv>
+            <xv>Fem anratha.</xv>
             <xg>Ich erzähle es gerade.</xg>
         </example>
         <example>
-            <xv>Fem anrathše.</xv>
+            <xv>Fem anratha�e.</xv>
             <xg>Ich habe es vor kurzem erzählt.</xg>
         </example>
     </Lexeme>
@@ -108,6 +108,11 @@
 		<gloss>See</gloss>
 	</lexeme>
 	<Lexeme>
+		<lx>dar</lx>
+		<pos>N</pos>
+		<gloss>Holz<gloss>
+	</lexeme>
+	<Lexeme>
 		<lx>darun</lx>
 		<pos>N</pos>
 		<gloss>Wald</gloss>
@@ -156,5 +161,10 @@
 		<lx>kroch</lx>
 		<pos>Adj</pos>
 		<gloss>schlecht<gloss>
+	</lexeme>
+	<Lexeme>
+		<lx>ma</lx>
+		<pos>Prep</pos>
+		<gloss>in, nach<gloss>
 	</lexeme>
 </dict>
