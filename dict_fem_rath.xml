@@ -11,101 +11,27 @@
         <gloss>3SG.OBJ-</gloss>
         <note>related to nek- '3PL.OBJ-'</note>
     </Lexeme>
-    <Lexeme>
-        <lx>fem</lx>
-        <pos>P</pos>
-        <gloss>Ich (Pr√§sens)</gloss>
-    </Lexeme>
-    <Lexeme>
-        <lx>fua</lx>
-        <pos>P</pos>
-        <gloss>Ich (ferne Vergangenheit)</gloss>
-    </Lexeme>
-    <Lexeme>
-        <lx>fui</lx>
-        <pos>P</pos>
-        <gloss>Ich (nahe Vergangenheit)</gloss>
-    </Lexeme>
-    <Lexeme>
-        <lx>nek-</lx>
-        <pos>Verbal prefix</pos>
-        <gloss>3PL.OBJ-</gloss>
-        <note>related to an- '3SG.OBJ-'</note>
-    </Lexeme>
-    <Lexeme>
-        <lx>ratha</lx>
-        <pos>V</pos>
-        <gloss>sprechen</gloss>
-        <example>
-            <xv>Fem ratha.</xv>
-            <xg>Ich spreche gerade.</xg>
-        </example>
-        <example>
-            <xv>Fem ratha≈°e.</xv>
-            <xg>Ich habe vor kurzem gesprochen.</xg>
-        </example>
-        <example>
-            <xv>Fem anratha.</xv>
-            <xg>Ich erz√§hle es gerade.</xg>
-        </example>
-        <example>
-            <xv>Fem anrathaöe.</xv>
-            <xg>Ich habe es vor kurzem erz√§hlt.</xg>
-        </example>
-    </Lexeme>
-    <Lexeme>
-        <lx>trefa</lx>
-        <pos>V</pos>
-        <gloss>sehen</gloss>
-        <example>
-            <xv>Fem antrefa bost.</xv>
-            <xg>Ich sehe das Kind.</xg>
-        </example>
-        <example>
-            <xv>Fem nektrefa bost.</xv>
-            <xg>Ich sehe die Kinder.</xg>
-        </example>
-        <example>
-            <xv>Kem trefa≈°ufa.</xv>
-            <xg>(Ich sehe:) Er wird gesehen.</xg>
-        </example>
-        <example>
-            <xv>Kua antrefake.</xv>
-            <xg>(Mir wurde berichtet:) Er sah etwas.</xg>
-        </example>
-        <example>
-            <xv>Aku trefa≈°ure.</xv>
-            <xg>(Es steht geschrieben:) Er/Sie/Es wurde gesehen.</xg>
-        </example>
-        <example>
-            <xv>Fuasa trefa≈°ukr.</xv>
-            <xg>(Jemand von au√üen berichtete:) Ich allein wurde gesehen.</xg>
-        </example>
-	</Lexeme>
-	<Lexeme>
-		<lx>öemi</lx>
-		<pos>V<pos>
-		<gloss>glauben</gloss>
-	</Lexeme>
 	<Lexeme>
 		<lx>bodi</lx>
 		<pos>V</lx>
 		<gloss>gehen</gloss>
+		<example>
+            <xv>kui bost nake bodi nijalam woöe.</xv>
+            <xg>Das Kind ging vor Kurzem zu einem groﬂen Menschen.</xg>
+		</example>
+		<example>
+            <xv>kui bost nake bodi kem nijalam woöe.</xv>
+            <xg>Das Kind ging gerade zu dem groﬂem Menschen.</xg>
+		</example>
+	<example>
+            <xv>mem bost nake bodi kem nijalam woöe.</xv>
+            <xg>Ein Kind geht zu dem groﬂem Menschen.</xg>
+		</example>
 	</lexeme>
 	<Lexeme>
-		<lx>ledi</lx>
-		<pos>V</pos>
-		<gloss>tragen</gloss>
-	</lexeme>
-	<Lexeme>
-		<lx>kafam</lx>
-		<pos>N</pos>
-		<gloss>Berg</gloss>
-	</lexeme>
-	<Lexeme>
-		<lx>thalamach</lx>
-		<pos>N</pos>
-		<gloss>See</gloss>
+		<lx>cuma</lx>
+		<pos>Adj</pos>
+		<gloss>gut</gloss>
 	</lexeme>
 	<Lexeme>
 		<lx>dar</lx>
@@ -122,30 +48,25 @@
 		<pos>N</pos>
 		<gloss>Festung</gloss>
 	</lexeme>
-	<Lexeme>
-		<lx>nijalam</lx>
-		<pos>N</pos>
-		<gloss>Mensch</gloss>
-	</lexeme>
+    <Lexeme>
+        <lx>fem</lx>
+        <pos>P</pos>
+        <gloss>Ich (Pr√§sens)</gloss>
+    </Lexeme>
+    <Lexeme>
+        <lx>fua</lx>
+        <pos>P</pos>
+        <gloss>Ich (ferne Vergangenheit)</gloss>
+    </Lexeme>
+    <Lexeme>
+        <lx>fui</lx>
+        <pos>P</pos>
+        <gloss>Ich (nahe Vergangenheit)</gloss>
+    </Lexeme>
 	<Lexeme>
 		<lx>gemun</lx>
 		<pos>N</pos>
 		<gloss>Stadt</gloss>
-	</lexeme>
-	<Lexeme>
-		<lx>woöe</lx>
-		<pos>Adj</pos>
-		<gloss>groﬂ</gloss>
-	</lexeme>
-	<Lexeme>
-		<lx>nake</lx>
-		<pos>Adj</pos>
-		<gloss>klein</gloss>
-	</lexeme>
-	<Lexeme>
-		<lx>rame</lx>
-		<pos>Adj</pos>
-		<gloss>jung</gloss>
 	</lexeme>
 	<Lexeme>
 		<lx>gima</lx>
@@ -153,9 +74,9 @@
 		<gloss>alt</gloss>
 	</lexeme>
 	<Lexeme>
-		<lx>cuma</lx>
-		<pos>Adj</pos>
-		<gloss>gut</gloss>
+		<lx>kafam</lx>
+		<pos>N</pos>
+		<gloss>Berg</gloss>
 	</lexeme>
 	<Lexeme>
 		<lx>kroch</lx>
@@ -163,8 +84,99 @@
 		<gloss>schlecht<gloss>
 	</lexeme>
 	<Lexeme>
+		<lx>ledi</lx>
+		<pos>V</pos>
+		<gloss>tragen</gloss>
+		<example>
+            <xv>fem ledi dar cuma ma didamum.</xv>
+            <xg>Ich trage das gute Holz in die Festung.</xg>
+		</example>
+	</lexeme>
+	<Lexeme>
 		<lx>ma</lx>
 		<pos>Prep</pos>
 		<gloss>in, nach<gloss>
 	</lexeme>
+	<Lexeme>
+		<lx>nake</lx>
+		<pos>Adj</pos>
+		<gloss>klein</gloss>
+	</lexeme>
+    <Lexeme>
+        <lx>nek-</lx>
+        <pos>Verbal prefix</pos>
+        <gloss>3PL.OBJ-</gloss>
+        <note>related to an- '3SG.OBJ-'</note>
+    </Lexeme>
+	<Lexeme>
+		<lx>nijalam</lx>
+		<pos>N</pos>
+		<gloss>Mensch</gloss>
+	</lexeme>
+	<Lexeme>
+		<lx>rame</lx>
+		<pos>Adj</pos>
+		<gloss>jung</gloss>
+	</lexeme>
+    <Lexeme>
+        <lx>ratha</lx>
+        <pos>V</pos>
+        <gloss>sprechen</gloss>
+        <example>
+            <xv>Fem ratha.</xv>
+            <xg>Ich spreche gerade.</xg>
+        </example>
+        <example>
+            <xv>Fem rathaöe.</xv>
+            <xg>Ich habe vor kurzem gesprochen.</xg>
+        </example>
+        <example>
+            <xv>Fem anratha.</xv>
+            <xg>Ich erz‰hle es gerade.</xg>
+        </example>
+        <example>
+            <xv>Fem anrathaöe.</xv>
+            <xg>Ich habe es vor kurzem erz‰hlt.</xg>
+        </example>
+		<example>
+            <xv>thom ratha fem.</xv>
+            <xg>Du sprichst gerade mit mir.</xg>
+        </example>
+    </Lexeme>
+	<Lexeme>
+		<lx>öemi</lx>
+		<pos>V<pos>
+		<gloss>glauben</gloss>
+	</Lexeme>
+	<Lexeme>
+		<lx>thalamach</lx>
+		<pos>N</pos>
+		<gloss>See</gloss>
+	</lexeme>
+    <Lexeme>
+        <lx>trefa</lx>
+        <pos>V</pos>
+        <gloss>sehen</gloss>
+        <example>
+            <xv>Fem antrefa bost.</xv>
+            <xg>Ich sehe das Kind.</xg>
+        </example>
+        <example>
+            <xv>Fem nektrefa bost.</xv>
+            <xg>Ich sehe die Kinder.</xg>
+        </example>
+		<example>
+            <xv>kua trefa didamum femach.</xv>
+            <xg>Er/Sie/Es sah meine Festung.</xg>
+        </example>
+		<example>
+            <xv>didamum femach trefaöu thom.</xv>
+            <xg>Meine Festung wird von dir gesehen.</xg>
+        </example>
+	</Lexeme>
+	<Lexeme>
+		<lx>woöe</lx>
+		<pos>Adj</pos>
+		<gloss>groﬂ</gloss>
+	</lexeme>	
 </dict>
