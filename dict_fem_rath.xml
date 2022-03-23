@@ -29,6 +29,16 @@
 		</example>
 	</lexeme>
 	<Lexeme>
+		<lx>bulara</lx>
+		<pos>V</pos>
+		<gloss>bleiben</gloss>
+	</lexeme>
+	<Lexeme>
+		<lx>chiti</lx>
+		<pos>V</pos>
+		<gloss>erklären</gloss>
+	</lexeme>
+	<Lexeme>
 		<lx>cuma</lx>
 		<pos>Adj</pos>
 		<gloss>gut</gloss>
@@ -42,6 +52,11 @@
 		<lx>darun</lx>
 		<pos>N</pos>
 		<gloss>Wald</gloss>
+	</lexeme>
+	<Lexeme>
+		<lx>deba</lx>
+		<pos>V</pos>
+		<gloss>liegen</gloss>
 	</lexeme>
 	<Lexeme>
 		<lx>didamum</lx>
@@ -64,6 +79,11 @@
         <gloss>Ich (nahe Vergangenheit)</gloss>
     </Lexeme>
 	<Lexeme>
+		<lx>gaša</lx>
+		<pos>V</pos>
+		<gloss>sein</gloss>
+	</lexeme>
+	<Lexeme>
 		<lx>gemun</lx>
 		<pos>N</pos>
 		<gloss>Stadt</gloss>
@@ -74,9 +94,29 @@
 		<gloss>alt</gloss>
 	</lexeme>
 	<Lexeme>
+		<lx>goro</lx>
+		<pos>V</pos>
+		<gloss>heißen</gloss>
+	</lexeme>
+	<Lexeme>
 		<lx>kafam</lx>
 		<pos>N</pos>
 		<gloss>Berg</gloss>
+	</lexeme>
+	<Lexeme>
+		<lx>karca</lx>
+		<pos>V</pos>
+		<gloss>sollen</gloss>
+	</lexeme>
+	<Lexeme>
+		<lx>kethi</lx>
+		<pos>V</pos>
+		<gloss>können</gloss>
+	</lexeme>
+	<Lexeme>
+		<lx>keši</lx>
+		<pos>V</pos>
+		<gloss>müssen</gloss>
 	</lexeme>
 	<Lexeme>
 		<lx>kroch</lx>
@@ -93,9 +133,29 @@
 		</example>
 	</lexeme>
 	<Lexeme>
+		<lx>legi</lx>
+		<pos>V</pos>
+		<gloss>kommen</gloss>
+	</lexeme>
+	<Lexeme>
+		<lx>lome</lx>
+		<pos>V</pos>
+		<gloss>wollen</gloss>
+	</lexeme>
+	<Lexeme>
 		<lx>ma</lx>
 		<pos>Prep</pos>
 		<gloss>in, nach<gloss>
+	</lexeme>
+	<Lexeme>
+		<lx>mithra</lx>
+		<pos>V</pos>
+		<gloss>sagen</gloss>
+	</lexeme>
+	<Lexeme>
+		<lx>monati</lx>
+		<pos>V</pos>
+		<gloss>stehen</gloss>
 	</lexeme>
 	<Lexeme>
 		<lx>nake</lx>
@@ -114,9 +174,24 @@
 		<gloss>Mensch</gloss>
 	</lexeme>
 	<Lexeme>
+		<lx>norosa</lx>
+		<pos>V</pos>
+		<gloss>geben</gloss>
+	</lexeme>
+	<Lexeme>
+		<lx>poratu</lx>
+		<pos>V</pos>
+		<gloss>lassen</gloss>
+	</lexeme>
+	<Lexeme>
 		<lx>rame</lx>
 		<pos>Adj</pos>
 		<gloss>jung</gloss>
+	</lexeme>
+	<Lexeme>
+		<lx>ruma</lx>
+		<pos>V</pos>
+		<gloss>haben</gloss>
 	</lexeme>
     <Lexeme>
         <lx>ratha</lx>
@@ -153,6 +228,11 @@
 		<pos>N</pos>
 		<gloss>See</gloss>
 	</lexeme>
+	<Lexeme>
+		<lx>thami</lx>
+		<pos>V</pos>
+		<gloss>machen</gloss>
+	</lexeme>
     <Lexeme>
         <lx>trefa</lx>
         <pos>V</pos>
@@ -174,6 +254,11 @@
             <xg>Meine Festung wird von dir gesehen.</xg>
         </example>
 	</Lexeme>
+	<Lexeme>
+		<lx>womu</lx>
+		<pos>V</pos>
+		<gloss>gelten</gloss>
+	</lexeme>
 	<Lexeme>
 		<lx>woše</lx>
 		<pos>Adj</pos>
